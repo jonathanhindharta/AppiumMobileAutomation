@@ -1,6 +1,6 @@
-Appium Flip Automation By Jonathan Hindharta
-This is a project to fulfill Test 1 : Mobile App Automation Test (Assignment for Sr. Automation QA Candidate)
-https://github.com/jonathanhindharta/AppiumFlipAutomation
+Appium Mobile Automation By Jonathan Hindharta
+This is an example project of Mobile Automation using Appium
+https://github.com/jonathanhindharta/AppiumMobileAutomation
 
 Prerequisites Software to run this project :
 1. Java JDK
